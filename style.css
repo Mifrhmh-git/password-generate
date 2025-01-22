@@ -28,3 +28,24 @@ body{
     padding: 26px 20px;
     border-radius: 5px;
 }
+
+.container h1{
+    font-weight: 500;
+    font-size: 45px;
+}
+
+.container h1 span{
+    color: #52a96c;
+    padding-bottom: 7px;
+}
+
+.display img{
+    width: 50px;
+    cursor: pointer;
+}
+
+.display input{
+    border: 0;
+    outline: 0;
+    font-size: 20px;
+}
