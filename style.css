@@ -49,3 +49,16 @@ body{
     outline: 0;
     font-size: 20px;
 }
+
+.container button{
+    background: #52a96c;
+    color: #fff;
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
